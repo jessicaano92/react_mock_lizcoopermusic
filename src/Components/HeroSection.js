@@ -24,14 +24,14 @@ function HeroSection() {
           buttonStyle="btn--outline"
           buttonSize="btn--large"
         >
-          ENTER
+          LISTEN NOW
         </Button>
         <Button
           className="btns"
           buttonStyle="btn--primary"
           buttonSize="btn--large"
         >
-          WATCH ME
+          ENTER SITE
           <i className="far fa-play-circle" />
         </Button>
       </div>

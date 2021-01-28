@@ -11,7 +11,7 @@ function Cards() {
                 <div className="cards_wrapper">
                     <ul className="cards_items">
                         <CardItem
-                        src="images/bg1.jpg"
+                        src="./public/images/bg1.jpg"
                         text="Liz Cooper Herself"
                         label="Singer Songwriter"
                         path="/biography"
