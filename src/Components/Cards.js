@@ -3,20 +3,24 @@ import CardItem from './CardItem';
 import './Cards.css';
 
 
+
+
 function Cards() {
     return (
         <div className="cards">
-            <h1>Music for the soul</h1>
+            <h1></h1>
             <div className="cards_container">
                 <div className="cards_wrapper">
                     <ul className="cards_items">
                         <CardItem
-                        src="./public/images/bg1.jpg"
-                        text="Liz Cooper Herself"
+                        src= "images/liz5.jpg"
+                        text="Liz Cooper & The Stampede"
                         label="Singer Songwriter"
                         path="/biography"
                         />
                     </ul>
+                  
+                  
                 </div>
             </div>
         </div>
