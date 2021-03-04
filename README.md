@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-This React website is built using React Hooks and React Router. It is a fully responsive website with emphasis on the responsiveness of the navbar and dropdown menu. 
+This simple and clean React website is built using React Hooks and React Router. It is a fully responsive website with emphasis on the responsiveness of the navbar and dropdown menu. 
 
 ## Installation
 
