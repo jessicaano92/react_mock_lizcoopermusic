@@ -10,7 +10,7 @@ This React website is built using React Hooks and React Router. It is a fully re
 
 ## Installation
 
-npm i and npm start
+npm i, npm start
 
 ## Technology Used
 
