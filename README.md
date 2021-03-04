@@ -19,3 +19,5 @@ React.js using Hooks and Router, HTML, CSS
 
 ## Usage
 <img src= "https://github.com/jessicaano92/react_mock_lizcoopermusic/blob/main/public/images/screenshot1.png?raw=true">
+<br>
+<img src="https://github.com/jessicaano92/react_mock_lizcoopermusic/blob/main/public/images/screenshot2.png?raw=true">
