@@ -15,3 +15,7 @@ npm i and npm start
 ## Technology Used
 
 React.js using Hooks and Router, HTML, CSS
+
+
+## Usage
+
