@@ -12,4 +12,6 @@ This React website is built using React Hooks and React Router. It is a fully re
 
 npm i and npm start
 
+## Technology Used
 
+React.js using Hooks and Router, HTML, CSS
